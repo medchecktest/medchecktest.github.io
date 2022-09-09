@@ -1,3 +1,4 @@
+<center>R.I.P Queen Elizabeth from MediCheck</center>
 <p align="center">
   <img src="12E32148-6EB4-4259-9471-781CA4155AC4.png" alt="MedCheck Red Cross"/>
 </p>
